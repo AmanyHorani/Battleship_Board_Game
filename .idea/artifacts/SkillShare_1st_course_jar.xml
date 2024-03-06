@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SkillShare 1st course:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkillShare_1st_course_jar</output-path>
+    <root id="archive" name="SkillShare 1st course.jar">
+      <element id="module-output" name="SkillShare 1st course" />
+    </root>
+  </artifact>
+</component>
